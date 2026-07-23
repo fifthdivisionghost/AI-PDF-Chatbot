@@ -279,7 +279,7 @@ The chatbot returns:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-PDF-Chatbot.git
+git clone (https://github.com/fifthdivisionghost/AI-PDF-Chatbot.git)
 cd AI-PDF-Chatbot
 ```
 
