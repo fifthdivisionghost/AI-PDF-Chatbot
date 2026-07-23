@@ -1,0 +1,9 @@
+torch
+transformers
+accelerate
+bitsandbytes
+sentence-transformers
+chromadb
+gradio
+PyPDF2
+huggingface-hub
