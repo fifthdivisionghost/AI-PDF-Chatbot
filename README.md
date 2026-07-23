@@ -1,6 +1,7 @@
 <div align="center">
 
 # 📄 AI PDF Chatbot
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ### 🤖 Chat with PDF Documents using Retrieval-Augmented Generation (RAG)
 
